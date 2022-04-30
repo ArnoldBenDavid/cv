@@ -14,7 +14,6 @@ hr{
 
 h1{
   font-size: 79px
-
   }
 
 p{
@@ -23,8 +22,17 @@ p{
   }
 
  strong{
-   color: #555555
- }
+       color: #555555
+       }
+
+  a {
+     color: blue;
+     text-decoration: none; /* no underline */ 
+     }
+
+
+
+
 /*****************CLASS CELECTORS**********************/
 
 
@@ -34,11 +42,10 @@ p.portfolio{
    font-size: 23pt
 }
 
+
 div.DS.Eco-Electric{
-
-  font-size: 59pt;
-
-    }
+                   font-size: 59pt;
+                   }
 
 
 
