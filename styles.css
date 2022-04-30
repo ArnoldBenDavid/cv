@@ -33,6 +33,11 @@ p{
  strong{
    color: #555555
  }
+
+
+  a {
+     color: blue;
+     text-decoration: none; /* no underline */
 /*****************CLASS CELECTORS**********************/
 
 .container{}
