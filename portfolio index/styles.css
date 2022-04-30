@@ -26,11 +26,10 @@ p{
        }
 
   a {
-     color: blue;
-     text-decoration: none; /* no underline */ 
-     }
-
-
+    color: blue;
+    text-decoration: none; /* no underline */
+    font-size: 32pt;
+  }
 
 
 /*****************CLASS CELECTORS**********************/
